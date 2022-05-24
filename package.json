@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "npm run build --workspaces",
+    "build": "npm run build --workspace=packages/api",
     "watch": "npm run watch --workspaces",
     "prestart": "npm run build",
     "start": "swa start packages/app --api-location packages/api/src",
