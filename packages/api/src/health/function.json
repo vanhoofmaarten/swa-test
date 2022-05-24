@@ -16,5 +16,5 @@
       "name": "res"
     }
   ],
-  "scriptFile": "../dist/chuck-norris/index.mjs"
+  "scriptFile": "../../dist/health/index.mjs"
 }
