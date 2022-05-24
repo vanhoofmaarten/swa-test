@@ -1,3 +1,5 @@
+import fetch from "node-fetch";
+
 export interface ChuckNorrisJoke {
   categories: string[];
   icon_url: string;

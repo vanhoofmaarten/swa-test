@@ -16,5 +16,8 @@
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
 }
