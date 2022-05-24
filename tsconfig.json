@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "strict": true,
+    "target": "esnext",
+    "module": "esnext",
+    "declaration": true
+  },
+  "references": [{ "path": "packages/core" }, { "path": "packages/api" }]
+}
